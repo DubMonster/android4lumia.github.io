@@ -36,7 +36,7 @@ Yes, you can, but keep in mind that installing GApps will make your device run v
 
 ### I want to go back to Windows Phone but I have not made a backup.
 
-If you have not made a backup, you cannot go back to Windows Phone because every device is unique.
+It's possible to go back but **we will not** cover it up here, check the FAQ for more info. If you have not made a proper backup, you cannot go back to Windows Phone because every device is unique.
 
 ### My phone got damaged!
 
